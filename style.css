@@ -17,7 +17,7 @@
 
 .logo{
     height: 179px;
-    background-image: url('../img/BG/bg1.jpg') ;
+    background-image: url('bg1.jpg') ;
     display: flex;
     width: 100%;
     justify-content: center;
